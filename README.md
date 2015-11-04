@@ -1,5 +1,7 @@
 # Angular Embryo
 
+A seed with test, coverage, linting, deployment and automation tools
+
 ## Prerequisites
 
 1. Install [Node.js](http://nodejs.org)
