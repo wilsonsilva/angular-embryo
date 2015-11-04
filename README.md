@@ -1,4 +1,4 @@
-# Angular Embryo [![Code Climate](https://codeclimate.com/github/wilsonsilva/angular-embryo/badges/gpa.svg)](https://codeclimate.com/github/wilsonsilva/angular-embryo)
+# Angular Embryo [![Code Climate](https://codeclimate.com/github/wilsonsilva/angular-embryo/badges/gpa.svg)](https://codeclimate.com/github/wilsonsilva/angular-embryo) [![Build Status](https://travis-ci.org/wilsonsilva/angular-embryo.svg?branch=master)](https://travis-ci.org/wilsonsilva/angular-embryo)
 
 A seed with test, coverage, linting, deployment and automation tools
 
