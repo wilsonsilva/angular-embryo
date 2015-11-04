@@ -1,4 +1,4 @@
-# Angular Embryo
+# Angular Embryo [![Code Climate](https://codeclimate.com/github/wilsonsilva/angular-embryo/badges/gpa.svg)](https://codeclimate.com/github/wilsonsilva/angular-embryo)
 
 A seed with test, coverage, linting, deployment and automation tools
 
